@@ -1,0 +1,6 @@
+{
+  "name": "Dessert Shop – Online Dessert Store",
+  "description": "Modern and premium dessert shop catalog and online store featuring artisanal cakes, brownies, cookies, donuts, pudding, dessert boxes, and custom orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
